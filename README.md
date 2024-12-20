@@ -1,18 +1,10 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! My name is **Dennis** and I'm currently working at **SPR Technologies S.r.L**. I'm on a journey to acquire new skills and broaden my horizons. Through GitHub, I aim to document my professional and personal projects, sharing my experiences along the way. 🚀
+Welcome to my GitHub profile! I'm on a journey to acquire new skills and broaden my horizons. Through GitHub, I aim to document my professional and personal projects, sharing my experiences along the way. 🚀
 
 ## About Me
 
 I'm a passionate individual who believes in the power of technology and innovation to shape the future. Connect with me to explore the possibilities!
-
-## Connect with Me
-
-Let's connect and embark on this exciting journey together! You can find me on:
-
-- LinkedIn: [linkedin.com/in/dennisgiusti/](https://www.linkedin.com/in/dennisgiusti/) 📎
-
-Feel free to reach out to me for collaborations, discussions, or just to share interesting ideas. 📬
 
 ## Projects and Contributions
 
