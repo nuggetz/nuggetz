@@ -1,5 +1,4 @@
 # 👨‍💻 Cybersecurity & Tech 
-[🇮🇹 Italian version below ⬇️]
 
 ## Hello, World! 👋  
 Welcome to my GitHub profile! I'm a cybersecurity professional with a strong focus on ethical hacking. I believe technology is a powerful tool to shape a secure and resilient digital future.  
