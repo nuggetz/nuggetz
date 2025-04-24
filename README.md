@@ -1,15 +1,18 @@
-# Hello, World! 👋
+# 👨‍💻 Cybersecurity & Tech 
+[🇮🇹 Italian version below ⬇️]
 
-Welcome to my GitHub profile! I'm on a journey to acquire new skills and broaden my horizons. Through GitHub, I aim to document my professional and personal projects, sharing my experiences along the way. 🚀
+## Hello, World! 👋  
+Welcome to my GitHub profile! I'm a cybersecurity professional with a strong focus on ethical hacking. I believe technology is a powerful tool to shape a secure and resilient digital future.  
 
-## About Me
+## 🛡️ What I Do  
+- Specializing in Cybersecurity, with a passion for Red Teaming and Threat Hunting  
+- Active Capture The Flag player on [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), and [picoCTF](https://picoctf.org/)  
+- Exploring automation, scripting, and embedded hacking (Flipper Zero, BadUSB)  
+- Advocating for secure-by-design systems and continuous learning  
 
-I'm a passionate individual who believes in the power of technology and innovation to shape the future. Connect with me to explore the possibilities!
+## 📁 Featured Projects  
+- **Cyber Assessment Suite (CAS)** for Flipper Zero – A modular toolkit to perform non-intrusive security assessments on Windows systems  
+- More open-source tools, payloads, and scripts in development – stay tuned!  
 
-## Projects and Contributions
-
-While I don't have any ongoing projects to showcase at the moment, stay tuned! I have something exciting in the works, and I can't wait to share it with you soon. Keep an eye on my profile for updates! 💡
-
-## Let's Connect
-
-I'm excited to connect with like-minded individuals, so don't hesitate to reach out. Let's inspire each other and shape the future of technology! 🌈
+## 🤝 Let’s Connect  
+Always happy to connect with professionals and enthusiasts alike. Let’s exchange knowledge, hack ethically, and secure the digital realm together!
