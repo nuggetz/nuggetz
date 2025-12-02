@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a cybersecurity professional with a strong foc
 
 ## 📁 Featured Projects  
 - **Cyber Assessment Suite (CAS)** for Flipper Zero – A modular toolkit to perform non-intrusive security assessments on Windows systems  
+- [**Build your own home lab - BYOHL**] a series of guides to test and have fun with self-hosted services (https://github.com/nuggetz/BYOHL)
 - More open-source tools, payloads, and scripts in development – stay tuned!  
 
 ## 🤝 Let’s Connect  
